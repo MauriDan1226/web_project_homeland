@@ -6,22 +6,23 @@ body {
 header {
   display: flex;
   flex-direction: column;
-  padding-left: 513px;
+  align-items: center;
   margin-top: 34px;
-  width: 254.84px;
-  height: 68.94px;
+  margin: 0 auto;
   left: 513px;
-  box-shadow: red;
 }
 
+.page{
+  margin:0 auto;
+}
 .header__logo {
+  margin-top: 34px;
   width: 32px;
   height: 32px;
-  margin-left: 111.42px;
 }
 
 .header__title {
-  width: 254.84px;
+
   height: 14.94px;
   top: 54px;
 }
