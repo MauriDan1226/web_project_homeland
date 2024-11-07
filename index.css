@@ -1,0 +1,45 @@
+body {
+  background-color: #2a2c2f;
+  color: #ffffff;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  padding-left: 513px;
+  margin-top: 34px;
+  width: 254.84px;
+  height: 68.94px;
+  left: 513px;
+  box-shadow: red;
+}
+
+.header__logo {
+  width: 32px;
+  height: 32px;
+  margin-left: 111.42px;
+}
+
+.header__title {
+  width: 254.84px;
+  height: 14.94px;
+  top: 54px;
+}
+
+.informacion {
+   
+    width: 984px;
+    height: 983px;
+    top: 194px;
+    left: 148px;
+}
+
+informacion__introduccion{
+
+}
+ informacion__title informacion__subtitle {
+
+ }
+  informacion__image{
+
+  }
