@@ -1,0 +1,43 @@
+.lugares {
+    display:flex ;  
+    flex-direction: column;
+    max-width: 984px;
+      margin: auto;
+      
+    }
+    
+    .lugares__title {
+      font-size: 54px;
+      font-weight: 900;
+      line-height: 58px;
+      text-align: left;
+    }
+    .lugares__introduccion {
+      max-width: 738px;
+      width: 100%;
+      top: 1482.91px;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 34px;
+      text-align: left;
+    }
+    
+    .lugares__autor {
+      max-width: 732px;
+      width: 100%;
+      top: 1628.56px;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 34px;
+      text-align: right;
+    }
+    .lugares__texto {
+      max-width: 722px;
+      width: 100%;
+      top: 1694.46px;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26.08px;
+      text-align: left;
+    }
+    

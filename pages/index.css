@@ -1,0 +1,29 @@
+@import url(./../vendor/normalize.css);
+@import url(./../vendor/fonts.css);
+@import url(./../blocks/page.css);
+@import url(./../blocks/header.css);
+@import url(./../blocks/informacion.css);
+@import url(./../blocks/lugares.css);
+@import url(./../blocks/footer.css);
+
+
+
+
+body {
+  background-color: #2a2c2f;
+  color: #ffffff;
+  font-family: "Inter";
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
