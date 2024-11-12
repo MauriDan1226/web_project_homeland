@@ -6,4 +6,4 @@ Para lograr esto, hemos utilizado herramientas como Flexbox y Media Queries. Fle
 Media Queries, por su parte, es una herramienta de CSS que permite aplicar diferentes estilos en función de las características del dispositivo, como el ancho o la orientación de la pantalla. Esto es esencial para el diseño responsivo, ya que nos permite adaptar el aspecto y la disposición del contenido para ofrecer una experiencia de usuario óptima en dispositivos móviles, tabletas y computadoras.
 
 En conjunto, Flexbox y Media Queries fueron fundamentales para crear una interfaz adaptable y funcional que representa los espacios de la comunidad de Tripleten, asegurando una visualización óptima sin importar el dispositivo desde el cual se acceda.
-(falta agregar el enlace GitHub pages)
+[soy un link]()

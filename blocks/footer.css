@@ -1,3 +1,4 @@
+
 .footer__autor {
   margin: auto;
   max-width: 194px;
@@ -8,3 +9,20 @@
   line-height: 16px;
   text-align: right;
 }
+@media screen and (max-width: 768px) {
+  .footer__autor {
+    max-width: 194px;
+    height: 16px;
+    margin-top: 88px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .footer__autor{
+    margin-top: 64px;
+    font-size: 14px;
+    line-height: 14px;
+    }
+} 
