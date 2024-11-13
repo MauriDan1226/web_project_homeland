@@ -1,3 +1,10 @@
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+
 .header {
   max-width: 100%;
 }

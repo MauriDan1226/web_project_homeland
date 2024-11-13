@@ -5,25 +5,10 @@
 @import url(./../blocks/informacion.css);
 @import url(./../blocks/lugares.css);
 @import url(./../blocks/footer.css);
+@import url(./../blocks/content.css);
+@import url(./../blocks/body.css);
 
 
-
-
-body {
-  background-color: #2a2c2f;
-  color: #ffffff;
-  font-family: "Inter";
-}
-
-header {
-  display: flex;
-  justify-content: center;
-}
-
-
-footer{
-  margin-bottom: 24px;
-}
 
 
 
