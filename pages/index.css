@@ -8,10 +8,77 @@
 @import url(./../blocks/content.css);
 @import url(./../blocks/body.css);
 
+.gallery {
+  /*   width: 100%;*/
+  margin-top: 118px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  max-height: 442px;
+}
+.container {
+  width: 100%;
+  max-width: 987px;
+  max-height: 3367px;
+  margin-top: 88px;
+}
 
+.place {
+  display: grid;
+  column-gap: 40px;
+  row-gap: 48px;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 984px;
+  max-height: 756px;
+}
 
+.place__tilte {
+  margin-top: auto;
+  max-width: 460px;
+  max-height: 152px;
+  display: grid;
+  justify-self: stretch;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 76px;
+  text-align: left;
+}
+.place__escritores {
+  margin-top: 85px;
+}
 
+.place__artista {
+  color: #aaaaaa;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0.12em;
+  text-align: left;
+}
+.place__autor {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+}
 
+.place__image {
+  max-width: 340px;
+  max-height: 340px;
+  height: 100%;
+  width: 100%;
+}
 
-
-
+.place__texto {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+}
+place__boton {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+}
