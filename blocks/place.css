@@ -132,7 +132,6 @@
 .place__boton:hover {
   box-shadow:linear-gradient(5px 5px 10px 0px #00000040);
 
-  opacity: 0.5;
 }
 @media screen and (max-width: 320px) {
   .place__boton {
