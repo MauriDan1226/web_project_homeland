@@ -126,7 +126,7 @@
   line-height: 22px;
   text-align: left;
   border-radius: 4px;
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b40 99.98%);
   padding: 13px 20px;
 }
 .place__boton:hover {
