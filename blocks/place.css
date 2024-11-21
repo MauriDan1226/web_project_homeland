@@ -95,6 +95,12 @@
   }
 }
 
+@media (hover: hover){
+  .place__image:hover{
+    opacity: 0.5
+  }
+}
+
 .place__texto {
   grid-area: description;
   font-size: 16px;
@@ -133,5 +139,10 @@
     font-size: 14px;
     line-height: 17px;
     text-align: center;
+  }
+}
+@media (hover: hover){
+  .place__boton:hover{
+    opacity: 0.5
   }
 }
